@@ -1,0 +1,14 @@
+.round-img {
+  max-width: 50%;
+  width: 150px;
+}
+main > h1 {
+  text-align: center;
+}
+
+.callout {
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 20px;
+  background-color: #c0fffe;
+}
